@@ -1,9 +1,8 @@
 # Data Factory Operator
 
-This role has by default all read actions allowed except of the Tables read role.
-Additionaly specific actions are allow to perform operational tasks.
+This role has by default all read actions allowed except of the Tables read role. Additionaly specific actions are allow to perform operational tasks.
 
-All actions can be found in the [documentation](https://docs.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations#microsoftdatafactory).
+All actions can be found in the [documentation](https://docs.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations#microsoftdatafactory). This role is inspired by the information [medium blog post](https://medium.com/microsoftazure/azure-custom-role-guidance-and-azure-data-factory-custom-operator-role-daaa6d7e66df) "Azure Custom Role Guidance and Azure Data Factory Custom Operator Role" by Inderjit Rana.
 
 Current set is defined on 30 July 2020.
 
