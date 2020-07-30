@@ -1,0 +1,26 @@
+{
+    "Name": "Data Factory Operator (custom)",
+    "IsCustom": true,
+    "Description": "Can perform operational tasks on Data Factory",
+    "Actions": [
+        "Microsoft.DataFactory/*/read",
+        "Microsoft.DataFactory/datafactories/datapipelines/pause/action",
+        "Microsoft.DataFactory/datafactories/datapipelines/resume/action",
+        "Microsoft.DataFactory/datafactories/gateways/connectioninfo/action",
+        "Microsoft.DataFactory/factories/cancelpipelinerun/action",
+        "Microsoft.DataFactory/factories/getDataPlaneAccess/action",
+        "Microsoft.DataFactory/factories/integrationruntimes/getObjectMetadata/action",
+        "Microsoft.DataFactory/factories/integrationruntimes/refreshObjectMetadata/action",
+        "Microsoft.DataFactory/factories/integrationruntimes/nodes/ipAddress/action",
+        "Microsoft.DataFactory/factories/pipelineruns/queryactivityruns/action",
+        "Microsoft.DataFactory/factories/pipelines/createrun/action",
+        "Microsoft.DataFactory/factories/privateEndpointConnectionProxies/validate/action",
+        "Microsoft.DataFactory/factories/triggers/geteventsubscriptionstatus/action"
+    ],
+    "NotActions": [
+        "Microsoft.DataFactory/datafactories/tables/read"
+    ],
+    "AssignableScopes": [
+        "/subscriptions/<subscriptionguid>"
+    ]
+}
