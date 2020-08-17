@@ -1,0 +1,12 @@
+{
+    "Name": "Azure Portal Dashboard Contributor (custom)",
+    "IsCustom": true,
+    "Description": "Grants full access to manage Azure Portal dashboards",
+    "Actions": [
+        "Microsoft.Portal/dashboards/*"
+    ],
+    "NotActions": [],
+    "AssignableScopes": [
+        "/subscriptions/<subscriptionguid>"
+    ]
+}
