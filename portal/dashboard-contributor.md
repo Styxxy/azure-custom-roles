@@ -8,7 +8,7 @@ Current set is defined on 17 August 2020.
 
 ## Actions allowed
 
-The actions are allowed based on a wildcard (`Microsoft.Portal/dashboards/`).
+The actions are allowed based on a wildcard (`Microsoft.Portal/dashboards/*`).
 
 | Action | Description |
 |-|-|
