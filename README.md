@@ -6,3 +6,4 @@ Following custom roles are defined in this repository.
 |-|-|-|
 | Data Factory Operator | [data-factory-operator.json](./Microsoft.DataFactory/data-factory-operator.json) | [data-factory-operator.md](./Microsoft.DataFactory/data-factory-operator.md) |
 | Azure Portal Dashboard Contributor | [dashboard-contributor.json](./Microsoft.Portal/dashboard-contributor.json) | [dashboard-contributor.md](./Microsoft.Portal/dashboard-contributor.md) |
+| Storage Account Key Reader | [account-key-reader.json](./Microsoft.Storage/account-key-reader.json) | [account-key-reader.md](./Microsoft.Storage/account-key-reader.md) |

@@ -1,0 +1,12 @@
+{
+    "Name": "Storage Account Key Reader (custom)",
+    "IsCustom": true,
+    "Description": "Grants read access to Azure Storage Account access keys",
+    "Actions": [
+        "Microsoft.Storage/storageAccounts/listkeys/action"
+    ],
+    "NotActions": [],
+    "AssignableScopes": [
+        "/subscriptions/<subscriptionguid>"
+    ]
+}
