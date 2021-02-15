@@ -1,0 +1,12 @@
+{
+    "Name": "Storage Table Contributor (custom)",
+    "IsCustom": true,
+    "Description": "Grants full access to manage the Storage Table service",
+    "Actions": [
+        "Microsoft.Storage/storageAccounts/tableServices/*"
+    ],
+    "NotActions": [],
+    "AssignableScopes": [
+        "/subscriptions/<subscriptionguid>"
+    ]
+}
