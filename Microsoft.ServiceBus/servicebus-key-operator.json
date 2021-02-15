@@ -1,0 +1,14 @@
+{
+    "Name": "Azure Service Bus Key Operator Service Role (custom)",
+    "IsCustom": true,
+    "Description": "Permits listing and regenerating service bus namespace access keys.",
+    "Actions": [
+        "Microsoft.ServiceBus/namespaces/authorizationRules/read",
+        "Microsoft.ServiceBus/namespaces/authorizationRules/listkeys/action",
+        "Microsoft.ServiceBus/namespaces/authorizationRules/regenerateKeys/action"
+    ],
+    "NotActions": [],
+    "AssignableScopes": [
+        "/subscriptions/<subscriptionguid>"
+    ]
+}

@@ -9,3 +9,5 @@ Following custom roles are defined in this repository.
 | Storage Account Key Reader | [account-key-reader.json](./Microsoft.Storage/account-key-reader.json) | [account-key-reader.md](./Microsoft.Storage/account-key-reader.md) |
 | Storage Table Contributor | [storage-table-contributor.json](./Microsoft.Storage/storage-table-contributor.json) | [storage-table-contributor](./Microsoft.Storage/storage-table-contributor.md) |
 | Storage Table Data Contributor | [storage-table-data-contributor.json](./Microsoft.Storage/storage-table-data-contributor.json) | [storage-table-data-contributor](./Microsoft.Storage/storage-table-data-contributor.md) |
+| Azure Service Bus Key Reader | [servicebus-key-reader.json](./Microsoft.ServiceBus/servicebus-key-reader.json) | [servicebus-key-reader.md](./Microsoft.ServiceBus/servicebus-key-reader.md) |
+| Azure Service Bus Key Operator Service Role | [servicebus-key-operator.json](./Microsoft.ServiceBus/servicebus-key-operator.json) | [servicebus-key-operator.md](./Microsoft.ServiceBus/servicebus-key-operator.md) |
