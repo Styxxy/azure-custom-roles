@@ -1,0 +1,13 @@
+{
+    "Name": "Azure Service Bus Key Reader (custom)",
+    "IsCustom": true,
+    "Description": "Grants read access to Azure Service Bus namespace access keys",
+    "Actions": [
+        "Microsoft.ServiceBus/namespaces/authorizationRules/read",
+        "Microsoft.ServiceBus/namespaces/authorizationRules/listkeys/action"
+    ],
+    "NotActions": [],
+    "AssignableScopes": [
+        "/subscriptions/<subscriptionguid>"
+    ]
+}
