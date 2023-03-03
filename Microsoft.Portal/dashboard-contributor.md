@@ -2,7 +2,7 @@
 
 This role has all operations (wildcard based) to perform on the Azure Portal Dashboards. With this role, a user can create/edit/delete any dashboard. Assigning it to a specific resource group, allows the user to (only) create dashboards within that resource group.
 
-All actions can be found in the [documentation](https://docs.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations#microsoftportal).
+All actions can be found in the [documentation](https://learn.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations#microsoftportal).
 
 Current set is defined on 17 August 2020.
 

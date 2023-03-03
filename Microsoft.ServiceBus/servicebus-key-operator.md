@@ -2,7 +2,7 @@
 
 This role grants permission to the user to list and regenerate service bus namespace access keys.
 
-All actions can be found in the [documentation](https://docs.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations#microsoftstorage).
+All actions can be found in the [documentation](https://learn.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations#microsoftstorage).
 
 Current set is defined on 15 February 2021.
 
