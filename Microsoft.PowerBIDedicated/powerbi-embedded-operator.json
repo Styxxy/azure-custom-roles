@@ -1,0 +1,17 @@
+
+{
+    "Name": "Power BI Embedded Operator (custom)",
+    "IsCustom": true,
+    "Description": "Grants full access to manage Azure Portal dashboards",
+    "Actions": [
+        "Microsoft.PowerBIDedicated/*/read",
+        "Microsoft.PowerBIDedicated/capacities/suspend/action",
+        "Microsoft.PowerBIDedicated/capacities/resume/action",
+        "Microsoft.PowerBIDedicated/servers/suspend/action",
+        "Microsoft.PowerBIDedicated/servers/resume/action"
+    ],
+    "NotActions": [],
+    "AssignableScopes": [
+        "/subscriptions/<subscriptionguid>"
+    ]
+}
