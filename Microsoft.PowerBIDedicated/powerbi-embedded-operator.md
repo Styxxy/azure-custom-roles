@@ -1,6 +1,6 @@
-# Azure Portal Dashboard Contributor
+# Power BI Embedded Operator
 
-This role has by default all read actions allowed. Additionaly specific actions are allow to perform operational tasks.
+This role has by default all read actions allowed (on the Microsoft.PowerBIDedicated resource provider). Additionaly specific actions are allow to perform operational tasks.
 
 All actions can be found in the [documentation](https://learn.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations#microsoftpowerbidedicated).
 
