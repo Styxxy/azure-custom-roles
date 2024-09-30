@@ -1,0 +1,12 @@
+{
+    "Name": "Storage Account Management Policies Contributor (custom)",
+    "IsCustom": true,
+    "Description": "Grants full access to manage Storage Account Management Policies",
+    "Actions": [
+        "Microsoft.Storage/storageAccounts/managementPolicies/*"
+    ],
+    "NotActions": [],
+    "AssignableScopes": [
+        "/subscriptions/<subscriptionguid>"
+    ]
+}
