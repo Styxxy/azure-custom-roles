@@ -1,5 +1,8 @@
 # Azure Service Bus Key Reader
 
+> [!TIP]
+> It is advisable to use EntraID integration instead of account keys for enhanced security.
+
 This role grants permission to the user to list service bus namespace access keys.
 
 All actions can be found in the [documentation](https://learn.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations#microsoftservicebus).
