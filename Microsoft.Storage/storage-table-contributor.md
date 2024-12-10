@@ -1,7 +1,7 @@
 # Storage Table Contributor
 
-[!WARNING]
-This role is Obsolete. Consider migrating to the Azure built-in RBAC role [Storage Table Data Contributor](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles/storage#storage-table-data-contributor).
+> [!WARNING]
+> This role is Obsolete. Consider migrating to the Azure built-in RBAC role [Storage Table Data Contributor](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles/storage#storage-table-data-contributor).
 
 This role grants permission to the user to manage the Storage Table service.
 

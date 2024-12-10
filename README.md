@@ -14,8 +14,8 @@ Following custom roles are defined in this repository.
 
 # [Obsolete] Azure Custom Roles
 
-[!WARNING]
-The roles below should be treated Obsolete and superseded by built-in Azure RBAC roles.
+> [!WARNING]
+> The roles below should be treated Obsolete and superseded by built-in Azure RBAC roles.
 
 | Name | Definition file | Documentation |
 |-|-|-|
