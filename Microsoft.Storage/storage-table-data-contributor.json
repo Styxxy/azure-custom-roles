@@ -1,7 +1,7 @@
 {
-    "Name": "Storage Table Data Contributor (custom)",
+    "Name": "Storage Table Data Contributor (custom) [Obsolete]",
     "IsCustom": true,
-    "Description": "Read, write, and delete Azure Storage Table tables and data",
+    "Description": "[Obsolete] Read, write, and delete Azure Storage Table tables and data",
     "Actions": [
         "Microsoft.Storage/storageAccounts/tableServices/read",
         "Microsoft.Storage/storageAccounts/tableServices/tables/*"

@@ -11,5 +11,13 @@ Following custom roles are defined in this repository.
 | Power BI Embedded Operator | [powerbi-embedded-operator.json](./Microsoft.PowerBIDedicated/powerbi-embedded-operator.json) | [powerbi-embedded-operator.md](./Microsoft.PowerBIDedicated/powerbi-embedded-operator.md) |
 | Storage Account Key Reader | [account-key-reader.json](./Microsoft.Storage/account-key-reader.json) | [account-key-reader.md](./Microsoft.Storage/account-key-reader.md) |
 | Storage Account Management Policies Contributor | [account-managementpolicies-contributor.json](./Microsoft.Storage/account-managementpolicies-contributor.json) | [account-managementpolicies-contributor.md](./Microsoft.Storage/account-managementpolicies-contributor.md) |
+
+# [Obsolete] Azure Custom Roles
+
+[!WARNING]
+The roles below should be treated Obsolete and superseded by built-in Azure RBAC roles.
+
+| Name | Definition file | Documentation |
+|-|-|-|
 | Storage Table Contributor | [storage-table-contributor.json](./Microsoft.Storage/storage-table-contributor.json) | [storage-table-contributor](./Microsoft.Storage/storage-table-contributor.md) |
 | Storage Table Data Contributor | [storage-table-data-contributor.json](./Microsoft.Storage/storage-table-data-contributor.json) | [storage-table-data-contributor](./Microsoft.Storage/storage-table-data-contributor.md) |

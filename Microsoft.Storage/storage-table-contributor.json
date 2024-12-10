@@ -1,7 +1,7 @@
 {
-    "Name": "Storage Table Contributor (custom)",
+    "Name": "Storage Table Contributor (custom) [Obsolete]",
     "IsCustom": true,
-    "Description": "Grants full access to manage the Storage Table service",
+    "Description": "[Obsolete] Grants full access to manage the Storage Table service",
     "Actions": [
         "Microsoft.Storage/storageAccounts/tableServices/*"
     ],
